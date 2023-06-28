@@ -1,4 +1,7 @@
-# MGNN
+# Motif Graph Neural Network
+This is a PyTorch implementation of Paper: [Motif Graph Neural Network](https://arxiv.org/pdf/2112.14900.pdf)
+#### Authors: Xuexin Chen, Ruichu Cai, Yuan Fang, Min Wu, Zijian Li, Zhifeng Hao
+
 ### Requirements
 - Python == 3.8
 - PyTorch == 1.12.1
@@ -46,7 +49,7 @@ within MGNN/
 - on Chem2Bio2RDF: ./MGNN_CBR/main.py
 
 # Citation
-If you find this useful for your research, we would be appreciated if you cite the following papers:
+If you find this code useful, please cite the following:
 ```
 @ARTICLE{10154572,
   author={Chen, Xuexin and Cai, Ruichu and Fang, Yuan and Wu, Min and Li, Zijian and Hao, Zhifeng},
