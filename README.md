@@ -1,5 +1,6 @@
 # Motif Graph Neural Network
 :star: Star us on GitHub — it helps!!
+
 This is a PyTorch implementation of paper: [Motif Graph Neural Network](https://arxiv.org/pdf/2112.14900.pdf)
 #### Authors: Xuexin Chen, Ruichu Cai, Yuan Fang, Min Wu, Zijian Li, Zhifeng Hao
 
